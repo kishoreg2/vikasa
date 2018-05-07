@@ -15,3 +15,15 @@ http://blogs.allari.com/7-steps-to-create-a-vpc-using-amazon-web-services
 http://docs.qubole.com/en/latest/user-guide/clusters/clusters-in-vpcs.html
 https://www.linuxtechi.com/how-to-configure-vpc-in-aws/
 
+Azure 
+https://docs.microsoft.com/en-us/azure/storage/common/storage-introduction
+
+
+Azure excercise
+
+Cloudservice
+https://docs.microsoft.com/en-us/azure/cloud-services/cloud-services-nodejs-chat-app-socketio
+https://docs.microsoft.com/en-us/azure/cloud-services/cloud-services-nodejs-develop-deploy-app
+
+Appservice
+https://docs.microsoft.com/en-us/azure/app-service/app-service-web-get-started-html
